@@ -1,4 +1,13 @@
-<<<<<<< HEAD
+# 🕹️ Air Swipe Runner
+
+![Python](https://img.shields.io/badge/Built%20with-Python-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
+![Genre](https://img.shields.io/badge/Genre-Endless%20Runner-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+A gesture-controlled endless runner game built using **Python**, **Pygame**, and **MediaPipe**. Use real **hand swipes** (left, right, up) in front of your webcam to dodge obstacles, collect points, and experience a futuristic way to play!
+
 
 # Air Swipe Runner 🎮🖐️
 
