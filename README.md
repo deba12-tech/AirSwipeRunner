@@ -9,10 +9,6 @@
 A gesture-controlled endless runner game built using **Python**, **Pygame**, and **MediaPipe**. Use real **hand swipes** (left, right, up) in front of your webcam to dodge obstacles, collect points, and experience a futuristic way to play!
 
 
-# Air Swipe Runner 🎮🖐️
-
-A gesture-controlled endless runner game built with Python, Pygame, and MediaPipe. Use real hand swipes (left, right, up) in front of your webcam to control the player and dodge obstacles!
-
 ## ✨ Features
 
 - Real-time hand gesture detection (left, right, up)
